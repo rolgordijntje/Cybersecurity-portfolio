@@ -1,13 +1,23 @@
-Week 1 LOG
+# Week 1 Log
 
-- GitHub-account aangemaakt en eerste repository opgezet.
-- Doel voor deze week: focus op **netwerken en protocollen**. Tijdens mijn eerste onderzoek kwam ik de term ***tunneling***tegen.
-Dit heb ik ervan begrepen:
+**Wat heb ik gedaan?**  
+- GitHub-account aangemaakt  
+- Eerste repository opgezet  
+- Eerste verkenning gedaan naar netwerken en protocollen
 
-- **Tunneling** betekent dat je een packet verpakt in een andere packet, zodat de data niet meer zichtbaar is op het netwerk tijdens het transport. Voorbeeld: **VPN** waarbij je je IP-adres verbegt en je verkeer wordt afgeschermd. 
-- Binnen het vakgebied verschillen meningen over wat onder tunneling valt. Afhankelijk van specialisatie.
-- aanknooppunt voor volgend onderzoek: **layers**. Welke layers zijn er? en welke specifieke functie heeft een layer?
-- Gebruikte bronnen: Podcast *N is For Networking* N4N026: What is a Tunnel?
-- TryHackMe 
+**Wat heb ik geleerd?**  
+Tijdens mijn eerste onderzoek kwam ik de term ***tunneling*** tegen. Dit heb ik ervan begrepen:
+
+Tunneling betekent dat je een packet verpakt in een ander packet, zodat de originele data niet zichtbaar is tijdens het transport. Een voorbeeld hiervan is een **VPN**, waarbij je je IP-adres verbergt en je netwerkverkeer wordt afgeschermd.
+
+Binnen het vakgebied verschillen meningen over wat precies onder tunneling valt — dit hangt soms af van je specialisatie, bijvoorbeeld netwerkbeheer versus security (meer onderzoeken).
+
+**Aanknopingspunt voor volgend onderzoek:**  
+- Wat zijn **layers** in netwerken?
+- Welke layers zijn er en welke functie heeft elke laag?
+
+**Gebruikte bronnen:**  
+- 🎧 Podcast: *N is For Networking – N4N026: What is a Tunnel?*  
+- 💻 TryHackMe (eerste verkenning)
 
   
