@@ -20,4 +20,17 @@ Binnen het vakgebied verschillen meningen over wat precies onder tunneling valt 
 - 🎧 Podcast: *N is For Networking – N4N026: What is a Tunnel?*  
 - 💻 TryHackMe (eerste verkenning)
 
+**Wat heb ik gedaan?**
+- TryHackMe Network Fundamentals - OSI Model
+
+  **Wat heb ik geleerd?**
   
+**OSI** **O**pen **S**ystems **I**nterconnection. Het model bestaat uit 7 lagen (layers). Te weten:
+1. Physical
+2. Data Link
+3. Network
+4. Transport
+5. Session
+6. Presentation
+7. Application
+
