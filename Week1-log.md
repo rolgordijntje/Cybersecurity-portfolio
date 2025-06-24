@@ -27,8 +27,8 @@ Binnen het vakgebied verschillen meningen over wat precies onder tunneling valt 
   
 **OSI** **O**pen **S**ystems **I**nterconnection. Het model bestaat uit 7 lagen (layers). Te weten:
 1. Physical
-2. Data Link
-3. Network (Routers operate on this layer)
+2. Data Link (switches can operate)
+3. Network (Routers operate on this layer, switches can operate)
 4. Transport
 5. Session
 6. Presentation
