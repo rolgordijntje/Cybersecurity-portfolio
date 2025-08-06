@@ -16,8 +16,11 @@ You could call it your browser's identity card — it tells the server what soft
 
 In this example:
 
-    Mozilla/4.0 is mostly there for compatibility with older websites.
+- Mozilla/4.0 is mostly there for compatibility with older websites.
+- compatible; MSIE 7.0 refers to Microsoft Internet Explorer 7.
+- But, the precense of Tridant/7.0 reveals that this is actually Internet Explorer 11 (Trident 7 is the rendering engine for IE11)
+ 
 
-    compatible; MSIE 7.0 refers to Microsoft Internet Explorer 7.
+    
 
-    But the presence of Trident/7.0 reveals that this is actually Internet Explorer 11 (since Trident 7 is the rendering engine for IE11).
+
