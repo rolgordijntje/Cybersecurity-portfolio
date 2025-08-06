@@ -1,46 +1,52 @@
-# SOC Analyst level 1  - leerjournaal
+# SOC Analyst level 1  - portfolio
 
-Mijn omscholingstraject richting cybersecurity. Mijn interesse op dit moment ligt bij een rol als ** SOC Analyst Level 1**  In mijn repo kun je lezen over mijn voortgang, mijn notities bekijken. Het bevat labs en kleine projecten die ik uitvoer tijdens dit traject.
+Welcome to my Cybersecurity portfolio!
+This repository provides my study plan to build a foundation in cybersecurity. 
 
-## DOEL
-Omscholen naar een cybersecurity-rol. Ik ben mij er van bewust dat cybersecurity breed is. Mijn focus ligt momenteel bij:
-- Blue Team/ SOC werkzaamheden
-- OSINT
-- leren werken met een Agile aanpak
-- CompTIA Security+ certificering
+I will share my progress here.
 
-  ---
-## Agile leerproces
 
-Ik werk in 2-weekse sprints. Elke sprint bevat:
-- een concreet leerdoel
-- een LinkedIn-update
-- GitHub commit-log
+## Goal
+Reskill into a cybersecurity role. I’m aware that cybersecurity is a broad field. My current focus is on:
 
-| Sprint | Periode | Focus | Status |
-|--------|---------|--------|--------|
-| Sprint 1 | 1-14 juli  | Pre Security path TryHackMe| Bezig
-| Sprint 2 | 15–28 juli | Networking & Wireshark | gepland |
-| Sprint 3 | 1–14 augustus | Windows & Linux Fundamentals | gepland |
-| Sprint 4 | 15–28 augustus| Threat Detection & SIEM |  Gepland |
+    Blue Team / SOC operations
+
+    OSINT (Open Source Intelligence)
+
+    TryHackMe
+
+    CompTIA Security+ certification
+
+    learning Python
+
+
+## Tools 
+**Git**: to save my code, track changes, and manage projects
+
+**GitHub**: to store and share my projects online
+
+**VS Code**: my favorite code editor to work in
+
+**Git Bash**: to run Git commands
 
 ---
 
-##  Labs & Notities
-> 🛠️ **Let op**: deze sectie wordt aangevuld tijdens mijn leertraject.  
-> Vanaf Sprint 2 komen hier notities, labopdrachten en reflecties.
+##  Labs & Notes
+> 🛠️      **Note**: This section will be updated throughout my learning journey.
+     You will find notes, lab assignments, and reflections here.
 
-📍 Tot die tijd verwijs ik graag naar mijn TryHackMe-profiel voor mijn voortgang:  
+📍 In the meantime, feel free to check my TryHackMe profile for my progress:
 🔗 [https://tryhackme.com/p/rolgordijntje](https://tryhackme.com/p/rolgordijntje)
 
 ---
 
-##  Certificeringsdoelen
+## **Certification Goals**
 
 - Google/IBM Cybersecurity via Coursera  *(gepland in augustus)*
 - CompTIA Security+  *(gepland na september)*
 
 ---
+
 
 ## 📎 Contact
 
