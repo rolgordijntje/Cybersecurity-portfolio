@@ -1,11 +1,11 @@
-August 6, 2025
+## August 6, 2025 TryHackMe Userstring-Analysis
 
 Today was a productive and educational day. I'm currently working in SOC Level 1 > Cyber Defence > Frameworks > Pyramid of Pain.
 Task 6 focuses on Network Artifacts.
 
-We're using TShark to filter out User-Agent strings with the following command:
+We're using **TShark** to filter out User-Agent strings with the following command:
 
-tshark -Y http.request -T fields -e http.host -e http.user_agent -r analysis_file.pcap
+**tshark -Y http.request -T fields -e http.host -e http.user_agent -r analysis_file.pcap**
 
 The User-Agent string we're seeing is:
 
