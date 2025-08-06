@@ -1,4 +1,5 @@
 August 6, 2025
+
 Today was a productive and educational day. I'm currently working in SOC Level 1 > Cyber Defence > Frameworks > Pyramid of Pain.
 Task 6 focuses on Network Artifacts.
 
